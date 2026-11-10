@@ -1,0 +1,41 @@
+[
+  {
+    "rationCard": "RC101",
+    "name": "Ramesh Kumar",
+    "village": "Kothapalli",
+    "members": 4,
+    "password": "user123",
+    "eligible": {
+      "Rice": 20,
+      "Wheat": 5,
+      "Sugar": 2,
+      "Kerosene": 1
+    }
+  },
+  {
+    "rationCard": "RC102",
+    "name": "Sita Devi",
+    "village": "Ramapuram",
+    "members": 3,
+    "password": "user123",
+    "eligible": {
+      "Rice": 15,
+      "Wheat": 4,
+      "Sugar": 1.5,
+      "Kerosene": 1
+    }
+  },
+  {
+    "rationCard": "RC103",
+    "name": "Arjun Reddy",
+    "village": "Madhavaram",
+    "members": 5,
+    "password": "user123",
+    "eligible": {
+      "Rice": 25,
+      "Wheat": 6,
+      "Sugar": 2.5,
+      "Kerosene": 2
+    }
+  }
+]
